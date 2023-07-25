@@ -1,5 +1,5 @@
 <template>
   <div>
-    <HelloParagraph/>
+    <Heading />
   </div>
 </template>
